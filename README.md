@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**hardik-singhal/hardik-singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hello Visitors, I'm Hardik </h1>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/hardik-s-9805a5101/"><img alt="Linked In" style="height:50px!important;width:50px!important" src="https://img.shields.io/badge/Linkedin-conect-blue"></a>
+            <a href="https://www.instagram.com/hardik.singhal._"><img alt="Instagram Follow" style="height:50px;width:50px" src="https://img.shields.io/badge/Instagram-follow-orange"></a>
+                <a href="https://www.hardik-technologies.tech"><img alt="Website" style="height:50px;width:50px" src="https://img.shields.io/badge/Website-reach-brightgreen"></a>
+                    <a href="https://www.geeksforgeeks.org/how-to-use-filter-within-controllers-in-angularjs/"><img alt="GFG Article" style="height:50px;width:50px" src="https://img.shields.io/badge/Geeks%20For%20Geek-Article-yellowgreen" ></a>
+</p>
+<br>
+<p align="center">
+                   Completed <strong>B.E. in Computer Science and Engineering (2020 Passout)</strong>
+<br>
+                   Working as <strong>Fullstack Web Developer</strong>
+<br>                                      
+</p>
